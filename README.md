@@ -22,8 +22,8 @@ The application showcases a player-controlled helicopter flying over deformed te
 - suffers a curvature effect according to the player-controlled helicopter's position to emulate a planet surface;
 - as a result, player movement takes place exclusively on the x and z coordinates.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b4846196-6954-4186-8d04-aa4c2ca9d744" width="250"/>
-  <img src="https://github.com/user-attachments/assets/e60e1daf-353f-40ea-9014-383b1947d52f" width="250"/><br>
+  <img src="https://github.com/user-attachments/assets/b4846196-6954-4186-8d04-aa4c2ca9d744" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e60e1daf-353f-40ea-9014-383b1947d52f" width="400"/><br>
   <i>Textured generated terrain (left) and the curvature effect deformation in practice (right)</i>
 </p>
 
