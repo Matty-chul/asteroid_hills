@@ -23,7 +23,7 @@ The application showcases a player-controlled helicopter flying over deformed te
 - as a result, player movement takes place exclusively on the x and z coordinates.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4846196-6954-4186-8d04-aa4c2ca9d744" width="250"/>
-  <img src="https://github.com/user-attachments/assets/e60e1daf-353f-40ea-9014-383b1947d52f" width="250"/>
+  <img src="https://github.com/user-attachments/assets/e60e1daf-353f-40ea-9014-383b1947d52f" width="250"/><br>
   <i>Textured generated terrain (left) and the curvature effect deformation in practice (right)</i>
 </p>
 
@@ -43,8 +43,8 @@ The application showcases a player-controlled helicopter flying over deformed te
 - all the 3D objects in the scene (save the helicopter) suffer a dynamic curvature effect dependent on the helicopter's global position.
 <p align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/88c0e231-926e-4447-8390-207bf3507370" width = "250" height = "150"/>
-  <img src="https://github.com/user-attachments/assets/6ddfad45-e01b-4aa2-b898-35031d34326c" width ="250" height = "150"/>
+  <img src="https://github.com/user-attachments/assets/88c0e231-926e-4447-8390-207bf3507370" width = "400" height = "300"/>
+  <img src="https://github.com/user-attachments/assets/6ddfad45-e01b-4aa2-b898-35031d34326c" width ="400" height = "300"/><br>
   <i>Up-close shot of the marker/Helicopter traversing the terrain</i>
 </p>
 
